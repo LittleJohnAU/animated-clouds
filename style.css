@@ -37,15 +37,15 @@
   top: 0;
 }
 .layer-front {
-  background-image: url('https://raw.githubusercontent.com/LittleJohnAU/animated-clouds/new/main/clouds_1.png');
+  background-image: url('https://raw.githubusercontent.com/LittleJohnAU/animated-clouds/refs/heads/main/clouds_1.png');
   animation: cloud1 30s infinite linear;
 }
 .layer-mid {
-  background-image: url('https://raw.githubusercontent.com/LittleJohnAU/animated-clouds/new/main/clouds_2.png');
+  background-image: url('https://raw.githubusercontent.com/LittleJohnAU/animated-clouds/refs/heads/main/clouds_2.png');
   animation: cloud2 20s infinite linear;
 }
 .layer-back {
-  background-image: url('https://raw.githubusercontent.com/LittleJohnAU/animated-clouds/new/main/clouds_3.png');
+  background-image: url('https://raw.githubusercontent.com/LittleJohnAU/animated-clouds/refs/heads/main/clouds_3.png');
   animation: cloud3 17s infinite linear;
 }
 @keyframes cloud1 {
